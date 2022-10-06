@@ -1,3 +1,4 @@
+![git](index1.png)
 # Инструкция по работе с Git
 ---
 1. Для того чтобы начать работу необходимо скачать сам [Git](https://git-scm.com/downloads "Ссылка для скачивания Git") и редактор кода [VSC](https://code.visualstudio.com/Download "Ссылка для скачивания VSC") .
